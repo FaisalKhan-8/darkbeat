@@ -4,10 +4,8 @@
   "type": "dark",
   "version": "1.0.0",
   "publisher": "beatrow77",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/FaisalKhan-8/darkbeat.git"
-  },
+  "repository": "https://github.com/FaisalKhan-8/darkbeat.git",
+
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
