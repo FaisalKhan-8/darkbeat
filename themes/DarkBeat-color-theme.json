@@ -6,7 +6,7 @@
   "publisher": "beatrow77",
   "repository": {
     "type": "git",
-    "url": "git://github.com/beatrow/beat"
+    "url": "https://github.com/FaisalKhan-8/darkbeat.git"
   },
   "semanticHighlighting": true,
   "semanticTokenColors": {
