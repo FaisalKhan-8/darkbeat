@@ -1,20 +1,9 @@
 #README
 
-## This is the README for your extension "DarkBeat"
+Here is the VS Code theme that I use in all the time. I like dark themes so it's dark :)
 
-# Darkbeat A vsCode theme
+I took inspiration from the Community Material and the Dark+ Material themes.
 
-## Working with Markdown
+💥 If you like this theme and would like to support me making cool stuff on here, you can sponsor me on <a href="https://github.com/sponsors/FaisalKhan-8/dashboard">GitHub!</a>.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Will be maintaining this as I have time, thanks for your understanding! 🙏🏽
