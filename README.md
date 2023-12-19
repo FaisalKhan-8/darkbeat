@@ -1,4 +1,4 @@
-# darkbeat README
+# Darkbeat A vsCode theme
 
 ## Working with Markdown
 
